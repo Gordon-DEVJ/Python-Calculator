@@ -1,3 +1,3 @@
-Simple Calculator With Tkinder.
+Simple Calculator With Tkinter.
 
 By Gordon-DEVJ
